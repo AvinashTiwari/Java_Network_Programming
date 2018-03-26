@@ -99,13 +99,13 @@ public class App
                 
                 //out.println("X-Mailer: Java");
                 out.println("From: mytest@test.com");
-                out.println("To: jnetworkprogramming@gmail.com");
+                out.println("To: Test@gmail.com");
                 out.println("Subject: TEST EMAIL");
                 out.println();
                 out.println("Subject: TEST EMAIL"); // message body
                 out.println("This is a test message"); // message body
                 out.println("Thanks,"); // message body
-                out.println("Java Network Programming course"); // message body
+                out.println("Test"); // message body
                 out.println();
                 out.println(".");
                 //out.println();
